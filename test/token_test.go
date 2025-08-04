@@ -2,7 +2,7 @@
 * @desc:功能测试
 * @company:云南奇讯科技有限公司
 * @Author: yixiaohu
-* @Date:   2022/2/28 10:09
+* @Date:   2025/2/28 10:09
  */
 
 package test
@@ -13,8 +13,8 @@ import (
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/net/ghttp"
 	"github.com/gogf/gf/v2/util/grand"
-	"github.com/tiger1103/gfast-token/adapter"
-	"github.com/tiger1103/gfast-token/gftoken"
+	"github.com/xishuai416/gfast-token/adapter"
+	"github.com/xishuai416/gfast-token/gftoken"
 	"testing"
 )
 

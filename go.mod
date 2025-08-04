@@ -1,4 +1,4 @@
-module github.com/tiger1103/gfast-token
+module github.com/xishuai416/gfast-token
 
 go 1.20
 
